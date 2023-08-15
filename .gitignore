@@ -1,0 +1,8 @@
+# Ignore the DATA folder and its contents
+DATA/
+
+# Ignore the OUTPUT folder and its contents
+OUTPUT/
+
+# Ignore the .idea folder and its contents
+.idea/
